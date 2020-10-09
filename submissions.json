@@ -1,4 +1,20 @@
 {
+  "AC17273794": {
+    "contest_id": "abc173",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc173/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Chat in a Circle",
+    "problem_url": "https://atcoder.jp/contests/abc173/tasks/abc173_d",
+    "submission_id": "AC17273794",
+    "submission_url": "https://atcoder.jp/contests/abc173/submissions/17273794",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/10/2020 01:29"
+  },
   "AC17273854": {
     "contest_id": "abc170",
     "language": "C++ (GCC 9.2.1)",
