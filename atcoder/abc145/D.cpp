@@ -70,9 +70,10 @@ void solve()
       ll B = op(1, x, 2, y);
       A /= D, B /= D;
       
-      
+      if( (A+B)>=0 &&  A >= 0)  
             cout << choose(A+B, A) << endl;
-      
+      else
+            cout << 0 << endl;
 }    
     
 int main() {
