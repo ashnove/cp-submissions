@@ -1,4 +1,20 @@
 {
+  "AC17549228": {
+    "contest_id": "abc129",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc129/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Typical Stairs",
+    "problem_url": "https://atcoder.jp/contests/abc129/tasks/abc129_c",
+    "submission_id": "AC17549228",
+    "submission_url": "https://atcoder.jp/contests/abc129/submissions/17549228",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/21/2020 03:45"
+  },
   "AC17549304": {
     "contest_id": "abc125",
     "language": "C++ (GCC 9.2.1)",
