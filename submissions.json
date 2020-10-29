@@ -1,4 +1,20 @@
 {
+  "AC17724912": {
+    "contest_id": "abc174",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc174/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Alter Altar",
+    "problem_url": "https://atcoder.jp/contests/abc174/tasks/abc174_d",
+    "submission_id": "AC17724912",
+    "submission_url": "https://atcoder.jp/contests/abc174/submissions/17724912",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/30/2020 02:37"
+  },
   "AC17731097": {
     "contest_id": "abc116",
     "language": "C++ (GCC 9.2.1)",
