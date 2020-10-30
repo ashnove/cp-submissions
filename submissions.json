@@ -1,4 +1,20 @@
 {
+  "AC17731097": {
+    "contest_id": "abc116",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc116/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Grand Garden",
+    "problem_url": "https://atcoder.jp/contests/abc116/tasks/abc116_c",
+    "submission_id": "AC17731097",
+    "submission_url": "https://atcoder.jp/contests/abc116/submissions/17731097",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/30/2020 14:16"
+  },
   "AC17751498": {
     "contest_id": "arc107",
     "language": "C++ (GCC 9.2.1)",
