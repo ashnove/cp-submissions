@@ -1,4 +1,20 @@
 {
+  "AC17835699": {
+    "contest_id": "agc008",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/agc008/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Simple Calculator",
+    "problem_url": "https://atcoder.jp/contests/agc008/tasks/agc008_a",
+    "submission_id": "AC17835699",
+    "submission_url": "https://atcoder.jp/contests/agc008/submissions/17835699",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/02/2020 12:40"
+  },
   "AC17838333": {
     "contest_id": "abc142",
     "language": "C++ (GCC 9.2.1)",
