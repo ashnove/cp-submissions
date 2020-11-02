@@ -1,4 +1,20 @@
 {
+  "AC17839100": {
+    "contest_id": "abc142",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc142/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Disjoint Set of Common Divisors",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_d",
+    "submission_id": "AC17839100",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/17839100",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/02/2020 15:38"
+  },
   "AC18062039": {
     "contest_id": "abc182",
     "language": "C++ (GCC 9.2.1)",
