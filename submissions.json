@@ -1,4 +1,20 @@
 {
+  "AC17834019": {
+    "contest_id": "code-festival-2015-qualb",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/code-festival-2015-qualb/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Hotel",
+    "problem_url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_c",
+    "submission_id": "AC17834019",
+    "submission_url": "https://atcoder.jp/contests/code-festival-2015-qualb/submissions/17834019",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/02/2020 10:55"
+  },
   "AC17835699": {
     "contest_id": "agc008",
     "language": "C++ (GCC 9.2.1)",
