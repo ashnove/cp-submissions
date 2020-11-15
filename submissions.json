@@ -1,4 +1,20 @@
 {
+  "AC18126079": {
+    "contest_id": "abc183",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc183/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Billiards",
+    "problem_url": "https://atcoder.jp/contests/abc183/tasks/abc183_b",
+    "submission_id": "AC18126079",
+    "submission_url": "https://atcoder.jp/contests/abc183/submissions/18126079",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/15/2020 17:40"
+  },
   "AC18130152": {
     "contest_id": "abc183",
     "language": "C++ (GCC 9.2.1)",
