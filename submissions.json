@@ -1,4 +1,20 @@
 {
+  "AC18257782": {
+    "contest_id": "arc108",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/arc108/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sum and Product",
+    "problem_url": "https://atcoder.jp/contests/arc108/tasks/arc108_a",
+    "submission_id": "AC18257782",
+    "submission_url": "https://atcoder.jp/contests/arc108/submissions/18257782",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/21/2020 17:33"
+  },
   "AC18577578": {
     "contest_id": "arc110",
     "language": "C++ (GCC 9.2.1)",
