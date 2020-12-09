@@ -1,4 +1,20 @@
 {
+  "AC18663354": {
+    "contest_id": "abc140",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc140/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Maximal Value",
+    "problem_url": "https://atcoder.jp/contests/abc140/tasks/abc140_c",
+    "submission_id": "AC18663354",
+    "submission_url": "https://atcoder.jp/contests/abc140/submissions/18663354",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/10/2020 02:51"
+  },
   "AC18663442": {
     "contest_id": "abc135",
     "language": "C++ (GCC 9.2.1)",
