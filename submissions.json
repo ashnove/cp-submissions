@@ -1,4 +1,20 @@
 {
+  "AC18671713": {
+    "contest_id": "agc036",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/agc036/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Triangle",
+    "problem_url": "https://atcoder.jp/contests/agc036/tasks/agc036_a",
+    "submission_id": "AC18671713",
+    "submission_url": "https://atcoder.jp/contests/agc036/submissions/18671713",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/10/2020 18:06"
+  },
   "AC18673425": {
     "contest_id": "abc051",
     "language": "C++ (GCC 9.2.1)",
