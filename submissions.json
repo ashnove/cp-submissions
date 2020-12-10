@@ -1,4 +1,20 @@
 {
+  "AC18668754": {
+    "contest_id": "abc131",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc131/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Megalomania",
+    "problem_url": "https://atcoder.jp/contests/abc131/tasks/abc131_d",
+    "submission_id": "AC18668754",
+    "submission_url": "https://atcoder.jp/contests/abc131/submissions/18668754",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/10/2020 14:16"
+  },
   "AC18668837": {
     "contest_id": "keyence2020",
     "language": "C++ (GCC 9.2.1)",
