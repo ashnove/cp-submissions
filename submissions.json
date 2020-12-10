@@ -1,4 +1,20 @@
 {
+  "AC18675715": {
+    "contest_id": "cf16-final",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/cf16-final/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Exactly N points",
+    "problem_url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_b",
+    "submission_id": "AC18675715",
+    "submission_url": "https://atcoder.jp/contests/cf16-final/submissions/18675715",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/10/2020 22:55"
+  },
   "AC18676562": {
     "contest_id": "agc038",
     "language": "C++ (GCC 9.2.1)",
