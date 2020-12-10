@@ -1,4 +1,20 @@
 {
+  "AC18669397": {
+    "contest_id": "arc080",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/arc080/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Grid Coloring",
+    "problem_url": "https://atcoder.jp/contests/arc080/tasks/arc080_b",
+    "submission_id": "AC18669397",
+    "submission_url": "https://atcoder.jp/contests/arc080/submissions/18669397",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/10/2020 15:12"
+  },
   "AC18669792": {
     "contest_id": "ddcc2020-qual",
     "language": "C++ (GCC 9.2.1)",
