@@ -1,4 +1,20 @@
 {
+  "AC18794111": {
+    "contest_id": "agc032",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/agc032/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Balanced Neighbors",
+    "problem_url": "https://atcoder.jp/contests/agc032/tasks/agc032_b",
+    "submission_id": "AC18794111",
+    "submission_url": "https://atcoder.jp/contests/agc032/submissions/18794111",
+    "tags": [
+      "AtCoder",
+      "*700"
+    ],
+    "timestamp": "Dec/15/2020 14:29"
+  },
   "AC18815986": {
     "contest_id": "abc171",
     "language": "C++ (GCC 9.2.1)",
