@@ -1,4 +1,20 @@
 {
+  "AC18974252": {
+    "contest_id": "agc011",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/agc011/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Colorful Creatures",
+    "problem_url": "https://atcoder.jp/contests/agc011/tasks/agc011_b",
+    "submission_id": "AC18974252",
+    "submission_url": "https://atcoder.jp/contests/agc011/submissions/18974252",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/25/2020 03:15"
+  },
   "AC18974278": {
     "contest_id": "agc023",
     "language": "C++ (GCC 9.2.1)",
