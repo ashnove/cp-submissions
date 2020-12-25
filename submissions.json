@@ -1,4 +1,20 @@
 {
+  "AC18979036": {
+    "contest_id": "nikkei2019-qual",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/nikkei2019-qual/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Different Strokes",
+    "problem_url": "https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_c",
+    "submission_id": "AC18979036",
+    "submission_url": "https://atcoder.jp/contests/nikkei2019-qual/submissions/18979036",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/25/2020 13:49"
+  },
   "AC19120860": {
     "contest_id": "abc187",
     "language": "C++ (GCC 9.2.1)",
