@@ -1,4 +1,23 @@
 {
+  "CF104683984": {
+    "contest_id": 486,
+    "language": "GNU C++17",
+    "path": "codeforces/486/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Valid Sets",
+    "problem_url": "https://codeforces.com/contest/486/problem/D",
+    "submission_id": "CF104683984",
+    "submission_url": "https://codeforces.com/contest/486/submission/104683984",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Jan/18/2021 17:54"
+  },
   "CF104693371": {
     "contest_id": 439,
     "language": "GNU C++17",
