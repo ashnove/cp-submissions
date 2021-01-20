@@ -1,4 +1,22 @@
 {
+  "CF104866410": {
+    "contest_id": 1301,
+    "language": "GNU C++17",
+    "path": "codeforces/1301/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Motarack's Birthday",
+    "problem_url": "https://codeforces.com/contest/1301/problem/B",
+    "submission_id": "CF104866410",
+    "submission_url": "https://codeforces.com/contest/1301/submission/104866410",
+    "tags": [
+      "binary search",
+      "greedy",
+      "ternary search",
+      "*1500"
+    ],
+    "timestamp": "Jan/20/2021 09:05"
+  },
   "CF104997006": {
     "contest_id": 1467,
     "language": "GNU C++17",
