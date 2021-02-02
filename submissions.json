@@ -1,4 +1,22 @@
 {
+  "CF106316363": {
+    "contest_id": 776,
+    "language": "GNU C++17",
+    "path": "codeforces/776/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Serial Killer",
+    "problem_url": "https://codeforces.com/contest/776/problem/A",
+    "submission_id": "CF106316363",
+    "submission_url": "https://codeforces.com/contest/776/submission/106316363",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Feb/03/2021 01:25"
+  },
   "CF106317932": {
     "contest_id": 776,
     "language": "GNU C++17",
