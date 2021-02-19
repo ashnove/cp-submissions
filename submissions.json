@@ -1,4 +1,23 @@
 {
+  "CF107897622": {
+    "contest_id": 777,
+    "language": "GNU C++17",
+    "path": "codeforces/777/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Game of Credit Cards",
+    "problem_url": "https://codeforces.com/contest/777/problem/B",
+    "submission_id": "CF107897622",
+    "submission_url": "https://codeforces.com/contest/777/submission/107897622",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Feb/19/2021 08:33"
+  },
   "CF107898079": {
     "contest_id": 777,
     "language": "GNU C++17",
