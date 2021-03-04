@@ -1,4 +1,20 @@
 {
+  "AC20655832": {
+    "contest_id": "arc098",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/arc098/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Xor Sum 2",
+    "problem_url": "https://atcoder.jp/contests/arc098/tasks/arc098_b",
+    "submission_id": "AC20655832",
+    "submission_url": "https://atcoder.jp/contests/arc098/submissions/20655832",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Mar/05/2021 00:20"
+  },
   "AC20680740": {
     "contest_id": "abc152",
     "language": "C++ (GCC 9.2.1)",
