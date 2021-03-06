@@ -1,4 +1,20 @@
 {
+  "AC20680778": {
+    "contest_id": "abc152",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc152/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Comparing Strings",
+    "problem_url": "https://atcoder.jp/contests/abc152/tasks/abc152_b",
+    "submission_id": "AC20680778",
+    "submission_url": "https://atcoder.jp/contests/abc152/submissions/20680778",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/06/2021 11:54"
+  },
   "AC20680921": {
     "contest_id": "abc152",
     "language": "C++ (GCC 9.2.1)",
