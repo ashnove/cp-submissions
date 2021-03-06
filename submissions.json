@@ -1,4 +1,20 @@
 {
+  "AC20696748": {
+    "contest_id": "abc194",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc194/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Job Assignment",
+    "problem_url": "https://atcoder.jp/contests/abc194/tasks/abc194_b",
+    "submission_id": "AC20696748",
+    "submission_url": "https://atcoder.jp/contests/abc194/submissions/20696748",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/06/2021 17:39"
+  },
   "AC20700172": {
     "contest_id": "abc194",
     "language": "C++ (GCC 9.2.1)",
