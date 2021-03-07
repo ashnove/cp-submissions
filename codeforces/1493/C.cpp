@@ -38,7 +38,19 @@ void solve()
 {
       ll n,k; cin >> n >> k;
       string s; cin >> s;
-      if(isTrue(s,k)){
+
+      if(n%k){
+            cout << -1 << endl;
+            return;
+      }
+      map<char, ll> allCnt;
+      for(char e : s)
+            allCnt[e]++;
+      bool ok = 1;
+      for(auto e : allCnt){
+            if(e.S%k)ok=0;
+      }
+      if(ok){
             cout << s << endl;
             return;
       }
@@ -95,8 +107,7 @@ void solve()
                   while(need--)
                         ans += ch;
             }
-            if(isTrue(ans,k))cout << ans << endl;
-            else cout << -1 << endl;
+            cout << ans << endl;
       }
 
 }
