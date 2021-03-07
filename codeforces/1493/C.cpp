@@ -107,7 +107,8 @@ void solve()
                   while(need--)
                         ans += ch;
             }
-            cout << ans << endl;
+            if(isTrue(ans,k))cout << ans << endl;
+            else cout << -1 << endl;
       }
 
 }
