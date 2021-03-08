@@ -1,4 +1,20 @@
 {
+  "CF109387918": {
+    "contest_id": 791,
+    "language": "GNU C++14",
+    "path": "codeforces/791/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bear and Big Brother",
+    "problem_url": "https://codeforces.com/contest/791/problem/A",
+    "submission_id": "CF109387918",
+    "submission_url": "https://codeforces.com/contest/791/submission/109387918",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/08/2021 15:41"
+  },
   "CF109391939": {
     "contest_id": 791,
     "language": "GNU C++14",
