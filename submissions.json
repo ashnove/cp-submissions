@@ -1,4 +1,20 @@
 {
+  "AC21138980": {
+    "contest_id": "arc115",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/arc115/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Two Choices",
+    "problem_url": "https://atcoder.jp/contests/arc115/tasks/arc115_a",
+    "submission_id": "AC21138980",
+    "submission_url": "https://atcoder.jp/contests/arc115/submissions/21138980",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/21/2021 16:59"
+  },
   "AC21147173": {
     "contest_id": "arc115",
     "language": "C++ (GCC 9.2.1)",
