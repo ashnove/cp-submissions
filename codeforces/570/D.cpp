@@ -54,7 +54,7 @@ ll const inf = 1e18;
 ll const maxn = 5e5 + 1;
 
 vector<int> adj[maxn], depth[maxn];
-vector<ll> in(2 * maxn), out(2 * maxn), level(maxn);
+vector<int> in(2 * maxn), out(2 * maxn), level(maxn);
 
 ll timer = 1;
 void dfs(int from, int d, int par = -1) {
