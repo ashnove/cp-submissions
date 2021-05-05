@@ -53,51 +53,40 @@ void readArray(ll a[], int n) {
 ll const inf = 1e18;
 ll const maxn = 5e5 + 1;
 
-ll query(ll l, ll r) {
-
-      printf("? %lld% lld\n", l, r);
-      fflush(stdout);
-      ll x;
-      scanf("%lld", &x);
-      return x;
-}
-
 void solve()
 {
       ll t = 1;
       cin >> t;
       for (ll tt = 1; tt <= t; tt++) {
 
-            ll n;
-            cin >> n;
-            ll x = to_string(n).length();
-            ll c = 1;
-            for (int i = 1; i <= x; i++)
-                  c *= 10;
-            c--;
-            if (n == c)
-            {
-                  cout << x * 9 << endl;
-                  continue;
-            }
-            ll num = (x - 1) * 9;
-            ll a = 1;
-            while (1)
-            {
-                  string y(x, char(a + 48));
-                  if (stoll(y) > n)
-                        break;
-                  else
-                  {
-                        num++;
-                        a++;
-                  }
-            }
-            cout << num << endl;
+            ll n; cin >> n;
 
+            ll temp = 1;
+            ll ans = 0;
+            while(temp*10 <= n){
+                  ans += 9;
+                  temp*=10;
+            }
+            
+            ll len = 0;
+            ll N = n;
+            while(N) len++, N/=10;
+            ll val = 0;
+            for(char i = '1'; i <= '9'; i++){
+                  string aa = "";
+                  f(j,0,len) aa += i;
+
+                  ll m = stoll(aa);
+                  if(m > n) break;
+                  val = i - '0';
+
+            }
+            cout << ans + val << endl;
+            
       }
-
 }
+
+
 
 int main()
 {
