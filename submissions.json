@@ -1430,6 +1430,25 @@
     ],
     "timestamp": "Mar/09/2021 16:35"
   },
+  "CF115433467": {
+    "contest_id": 214,
+    "language": "GNU C++17",
+    "path": "codeforces/214/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hometask",
+    "problem_url": "https://codeforces.com/contest/214/problem/B",
+    "submission_id": "CF115433467",
+    "submission_url": "https://codeforces.com/contest/214/submission/115433467",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/06/2021 21:02"
+  },
   "CF115433836": {
     "contest_id": 214,
     "language": "GNU C++17",

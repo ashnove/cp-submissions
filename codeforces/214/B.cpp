@@ -83,11 +83,12 @@ void solve()
 
             bool block[n] = {0};
             if (sum % 3 == 0) {
-                  if(a[0] == 0){
+                  sort(a, a + n);
+                  if(a[n - 1] == 0){
                         cout << 0 << endl;
                         continue;
                   }
-                  for (ll i = 0; i < n; i++)
+                  for (ll i = n - 1; i >= 0; i--)
                         cout << a[i];
             }
             else {
@@ -113,6 +114,8 @@ void solve()
                               if (!block[i])
                                     ans.pb(a[i]);
 
+                        sort(all(ans));
+                        reverse(all(ans));
                         if(ans[0] == 0){
                               cout << 0 << endl;
                               continue;
