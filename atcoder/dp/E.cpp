@@ -69,7 +69,7 @@ void solve()
             for(ll i = 0; i <= n; i++)
                   dp[i][0] = 0;
             for(ll i = 1; i <= n; i++){
-                  for(ll j = 1; j <= sum; j++){
+                  for(ll j = sum; j > 0; j--){
                         dp[i][j] = dp[i - 1][j];
                         if(j - v[i] >= 0)
                               dp[i][j] = min(a[i] + dp[i - 1][j - v[i]], dp[i - 1][j]);
