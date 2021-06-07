@@ -65,7 +65,9 @@ void solve()
 
             ll b[n + 1]; f(i,0,n) b[i + 1] = a[i + 1];
             a[0] = 0;
+            unordered_map<ll,ll> cnt;
             for(ll i = 1; i <= n; i++){
+                  cnt[a[i]]++;
                   a[i] += a[i - 1];
             }
             sort(b + 1, b + n + 1); b[0] = 0;
