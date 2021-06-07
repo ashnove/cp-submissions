@@ -1430,6 +1430,23 @@
     ],
     "timestamp": "Mar/09/2021 16:35"
   },
+  "CF118697714": {
+    "contest_id": 427,
+    "language": "GNU C++17",
+    "path": "codeforces/427/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prison Transfer",
+    "problem_url": "https://codeforces.com/contest/427/problem/B",
+    "submission_id": "CF118697714",
+    "submission_url": "https://codeforces.com/contest/427/submission/118697714",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/07/2021 13:19"
+  },
   "CF118697757": {
     "contest_id": 427,
     "language": "GNU C++17",

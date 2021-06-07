@@ -70,11 +70,11 @@ void solve()
             }
             ll res = 0;
             // cout << *(--s.end());
-            if(*(--s.end()) <= till) res = 1;
+            if(*s.rbegin() <= till) res = 1;
             for(ll i = c ; i < n; i++){
                   s.erase(s.find(a[i - c]));
                   s.insert(a[i]);
-                  if(*(--s.end()) <= till) res++;
+                  if(*s.rbegin() <= till) res++;
             }
             cout << res << endl;
 
