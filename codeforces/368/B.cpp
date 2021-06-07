@@ -52,37 +52,53 @@ void readArray(ll a[], int n) {
 
 ll const inf = 1e18;
 ll const mod = 1e9 + 7;
-ll const maxn = 1e5 + 1;
+ll const maxn = 2e3 + 1;
 
+vector<ll> adj[maxn];
+ll vis[maxn][maxn];
+void dfs(ll start, ll from, ll par = -1) {
+      vis[start][from] = 1;
+      for (ll to : adj[from]) {
+            if (!vis[start][to])
+                  dfs(start, to, from);
+      }
+}
+// void dfs(ll from, ll d, ll par = -1){
+
+//       ans += d
+
+
+// }
 void solve()
 {
       ll t1 = 1;
       // cin >> t;
       for (ll tt = 1; tt <= t1; tt++) {
-            ll n, m; cin >> n >> m;
-            ll a[n + 1]; f(i, 1, n + 1) cin >> a[i];
+            ll n,m; cin >> n >> m;
+            ll a[n + 1]; f(i,1,n + 1) cin >> a[i];
 
-            ll dp[n + 2] = {0};
+            vector<ll> L[n + 1];
+            ll q[m + 1] = {0};
+            ll it = 1;
+            ll M = m;
+            while(M--){
+                  ll l; cin >> l;
+                  L[l].pb(it++);
+            }
+            set<ll> cur;
 
-            ll hash[maxn] = {0};
             for(ll i = n; i >= 1; i--){
-                  dp[i] = dp[i + 1];
-                  if(hash[a[i]] == 0){
-                        hash[a[i]] = 1;
-                        dp[i]++;
-                  }
-
-
-            }
-            while(m--){
-                  ll x; cin >> x;
-                  cout << dp[x] << endl;
+                  cur.insert(a[i]);
+                  for(ll qi : L[i])
+                        q[qi] = cur.size();
             }
 
+            for(ll i = 1; i <= m; i++){
+                  cout << q[i] << endl;
+            }
       }
+
 }
-
-
 
 int main()
 {
