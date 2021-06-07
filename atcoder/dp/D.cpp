@@ -83,7 +83,7 @@ void solve()
             ll dp[n + 1][w + 1] ;
             memset(dp, 0, sizeof dp);
             for(ll i = 1; i <= n; i++){
-                  for(ll j = w; j > 0; j--){
+                  for(ll j = 1; j <= w ; j++){
                         dp[i][j] = dp[i - 1][j];
                         if(j - a[i] >= 0)
                               dp[i][j] = max(v[i] + dp[i - 1][j - a[i]], dp[i - 1][j]);
