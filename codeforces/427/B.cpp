@@ -64,19 +64,19 @@ void solve()
 
             ll a[n];
             f(i,0,n) cin >> a[i];   
-            ll pres[n] = {0};
-            for(ll i = 0; i < n; i++){
-                  if(a[i] <= till)
-                        pres[i] = 1;
-                  pres[i] += (i - 1 >= 0 ? pres[i - 1] : 0);
+            multiset<ll> s;
+            for(ll i = 0; i < c; i++){
+                  s.insert(a[i]);
             }
-            ll ans = 0;
-            for(ll i = c - 1; i < n; i++){
-                  if( pres[i] - (i - c >= 0 ? pres[i - c] : 0) == c ){
-                        ans++;
-                  }
+            ll res = 0;
+            // cout << *(--s.end());
+            if(*--s.end() <= till) res = 1;
+            for(ll i = c ; i < n; i++){
+                  s.erase(s.find(a[i - c]));
+                  s.insert(a[i]);
+                  if(*--s.end() <= till) res++;
             }
-            cout << ans << endl;
+            cout << res << endl;
 
       }
 }
