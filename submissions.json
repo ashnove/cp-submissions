@@ -1,4 +1,20 @@
 {
+  "AC23284486": {
+    "contest_id": "dp",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/dp/M.cpp",
+    "platform": "AtCoder",
+    "problem_index": "M",
+    "problem_name": "Candies",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_m",
+    "submission_id": "AC23284486",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/23284486",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/08/2021 00:41"
+  },
   "AC23301184": {
     "contest_id": "sumitrust2019",
     "language": "C++ (GCC 9.2.1)",
