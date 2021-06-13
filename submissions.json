@@ -1,4 +1,21 @@
 {
+  "CF119296938": {
+    "contest_id": 630,
+    "language": "GNU C++17",
+    "path": "codeforces/630/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Selection of Personnel",
+    "problem_url": "https://codeforces.com/contest/630/problem/F",
+    "submission_id": "CF119296938",
+    "submission_url": "https://codeforces.com/contest/630/submission/119296938",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/13/2021 10:38"
+  },
   "CF119297746": {
     "contest_id": 608,
     "language": "GNU C++17",
