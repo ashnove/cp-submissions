@@ -1,4 +1,20 @@
 {
+  "AC23641729": {
+    "contest_id": "abc074",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc074/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Bichrome Cells",
+    "problem_url": "https://atcoder.jp/contests/abc074/tasks/abc074_a",
+    "submission_id": "AC23641729",
+    "submission_url": "https://atcoder.jp/contests/abc074/submissions/23641729",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/20/2021 13:32"
+  },
   "AC23641957": {
     "contest_id": "abc074",
     "language": "C++ (GCC 9.2.1)",
