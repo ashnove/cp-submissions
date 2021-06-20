@@ -1,4 +1,20 @@
 {
+  "AC23643433": {
+    "contest_id": "abc074",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc074/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Restoring Road Network",
+    "problem_url": "https://atcoder.jp/contests/abc074/tasks/arc083_b",
+    "submission_id": "AC23643433",
+    "submission_url": "https://atcoder.jp/contests/abc074/submissions/23643433",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/20/2021 14:47"
+  },
   "AC23643730": {
     "contest_id": "abc075",
     "language": "C++ (GCC 9.2.1)",
