@@ -1,4 +1,20 @@
 {
+  "AC23659650": {
+    "contest_id": "abc075",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc075/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Bridge",
+    "problem_url": "https://atcoder.jp/contests/abc075/tasks/abc075_c",
+    "submission_id": "AC23659650",
+    "submission_url": "https://atcoder.jp/contests/abc075/submissions/23659650",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/21/2021 12:48"
+  },
   "AC23660454": {
     "contest_id": "abc077",
     "language": "C++ (GCC 9.2.1)",
