@@ -65,7 +65,7 @@ bool isSup(mat &a, int i, int j) {
 
 void solve()
 {
-      ll t1 = 1;
+      int t1 = 1;
       cin >> t1;
       for (ll tt = 1; tt <= t1; tt++) {
             int n; cin >> n;
