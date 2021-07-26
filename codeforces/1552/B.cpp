@@ -83,7 +83,7 @@ void solve()
                   else  i++;
             }
             bool ok = 1;
-            for (int k = 0; k < n; k++) {
+            for (int k = 0; k < n && ok; k++) {
                   if (k != i) {
                         int c = 0;
                         for (int p = 0; p < 5; p++) {
