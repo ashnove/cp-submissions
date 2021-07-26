@@ -1,7 +1,7 @@
 /*
 * @author : ashnove
 */
-#include <bits/stdc++.h> 
+#include <bits/stdc++.h>
 using namespace std;
 
 #define pb push_back
@@ -65,7 +65,7 @@ bool isSup(mat &a, int i, int j) {
 
 void solve()
 {
-      int t1 = 1;
+      ll t1 = 1;
       cin >> t1;
       for (ll tt = 1; tt <= t1; tt++) {
             int n; cin >> n;
@@ -83,7 +83,7 @@ void solve()
                   else  i++;
             }
             bool ok = 1;
-            for (int k = 0; k < n && ok; k++) {
+            for (int k = 0; k < n; k++) {
                   if (k != i) {
                         int c = 0;
                         for (int p = 0; p < 5; p++) {
