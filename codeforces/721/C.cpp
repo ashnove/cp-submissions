@@ -63,23 +63,27 @@ void solve()
       for (ll tt = 1; tt <= t1; tt++) {
             int n,m,T; cin >> n >> m >> T;
             vector<pair<int,int>> adj[n + 1];
+            // vector<pair<int,int>> adj2[n + 1];
             for(int i = 0; i < m; i++){
                   int u,v,w; cin >>  u >> v >> w;
                   adj[u].pb({v, w});
+                  // adj2[v].pb({u, w});
             }
-            //dp[i][j] = minimum time taken to reach i after travelling j showplaces (inclusive)
 
             vector<vector<int>> dp(n + 1, vector<int> (n + 1, inf) );
             vector<vector<int>> par(n + 1, vector<int> (n + 1, -1) );
+            // for(int i = 1; i <= n; i++) dp[i][1] = 0;
             dp[1][1] = 0;
 
+            vector<ll> indc(n + 1, -1);
             for(int j = 1; j < n; j++){
 
                   for(int i = 1; i <= n; i++){
                         for(auto e : adj[i]){
                               ll to = e.F;
 
-                              if(dp[to][j + 1] > dp[i][j] + e.S ){
+                              if(dp[to][j + 1] > dp[i][j] + e.S && dp[i][j] + e.S <= T){
+                                    indc[to] = i;
                                     dp[to][j + 1] = dp[i][j] + e.S;
                                     par[to][j + 1] = i;
                               }
@@ -87,23 +91,31 @@ void solve()
                   }
 
             }
+            // for(ll i = 1; i <= n; i++){
+            //       for(ll j = 1; j <= n; j++){
+            //             cout << dp[i][j] << " ";
+            //       }
+            //       nl;
+            // }
             int res = 0;
             for(int i = 1; i <= n; i++)
                   if(dp[n][i] <= T) res = i;
 
-            vector<int> ans(res);
+            vector<int> ans;
             int cur = n;
-            int jumps = res, it = res - 2;
-            ans.back() = cur;
+            int jumps = res;
+            ans.pb(cur);
             while(jumps > 1){
 
-                  ans[it--] = par[cur][jumps];
+                  ans.pb(par[cur][jumps]);
                   cur = par[cur][jumps];
                   jumps--;
 
             }
+            // ans.pb(1);
+            reverse(all(ans));
             cout << res << endl;
-            cout << ans;
+            for(ll i : ans) cout << i << " ";
       }
 }
 
