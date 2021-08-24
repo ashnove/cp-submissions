@@ -1,0 +1,103 @@
+/*
+* @author : ashnove
+*/
+#include <bits/stdc++.h>
+using namespace std;
+
+#define pb push_back
+#define all(dp2) (dp2).begin(),(dp2).end()
+#define F first
+#define S second
+#define Th third
+#define nl cout << endl;
+#define pb push_back
+#define f(i, a, b) for (ll i = a; i < b; i++)
+#define what_is(dp2) cerr << #dp2 << " is " << dp2 << endl;
+
+using lld = long double;
+using ll = long long int;
+using ar = vector<ll>;
+using mat = vector<vector<ll>>;
+mat cn(ll n, ll m) {return vector<vector<ll>>(n, vector<ll>(m));}
+
+ll const MOD = 1000000007;
+template<class T> inline bool chmin(T &a, T b) { return a > b ? a = b, 1 : 0; }
+template<class T> inline bool chmadp2(T &a, T b) { return a < b ? a = b, 1 : 0;}
+template<class T> inline void add(T &a, T b) { a += b; a >= MOD ? a - MOD : a; }
+template<class T> inline void sub(T &a, T b) { a -= b; a < 0 ? a + MOD : a; }
+template<class T> inline void mul(T &a, T b) {return (a * b) % MOD; }
+template<typename T> ostream& operator <<(ostream &out, const vector<T> &v) { for (auto &dp2 : v) out << dp2 << ' '; return out;}
+template<class T> void remDup(vector<T>& v) { sort(all(v)); v.erase(unique(all(v)), end(v)); }
+
+bool comp1(char &s1, char &s2) { return s1 > s2; }
+bool comp2(const pair<ll, pair<ll, ll>> &a, const pair<ll, pair<ll, ll>> &b) {
+      if (a.first > b.first)
+            return 1;
+      if (a.first == b.first && a.S.S > b.S.S)
+            return 1;
+      return 0;
+}
+class Pair { public: ll first, second;};
+bool comp3(const Pair &a, const Pair &b) {
+      if (a.F > b.F) return 1; return 0;
+}
+class Trips { public: ll first, second, third;};
+bool comp4(const Trips &a, const Trips &b) {
+      if (a.Th > b.Th) return 1; return 0;
+}
+
+void readArray(ll a[], int n) {
+      for (ll i = 0; i < n ; i++)
+            cin >> a[i];
+}
+
+ll const inf = 1e9 + 7;
+ll const maxn = 5e5 + 1;
+
+ll gcd(ll a, ll b)
+{
+      if (a == 0)
+            return b;
+      return gcd(b % a, a);
+}
+
+void solve()
+{
+      ll t1 = 1;
+      // cin >> t1;
+      for (ll tt = 1; tt <= t1; tt++) {
+            ll n,c; cin >> n >> c;
+            vector<ll> a(n + 1), b(n + 1);
+            for(int i = 1; i < n; i++) cin >> a[i];
+            for(int i = 1; i < n; i++) cin >> b[i];
+
+            mat dp = cn(n + 1, 2);
+
+            dp[1][1] = c;
+            for(int i = 2; i <= n; i++){
+                  dp[i][0] = min(dp[i - 1][0], dp[i - 1][1]) + a[i - 1];
+                  dp[i][1] = min(dp[i - 1][0] + c, dp[i - 1][1]) + b[i - 1] ;
+            }
+
+            for(int i = 1; i <= n; i++){
+                  cout << min(dp[i][0], dp[i][1]) << " ";
+            }
+
+      }
+
+
+
+
+}
+
+int main()
+{
+      ios_base::sync_with_stdio(false);
+      cin.tie(NULL); cout.tie(NULL);
+
+
+      solve();
+      // cout << "Case #" <<tt<<": ";
+      // printf("TIME: %.3lf\n", double(clock()) / CLOCKS_PER_SEC);
+      return 0;
+}
