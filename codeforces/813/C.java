@@ -29,8 +29,8 @@ public class Main {
                         Arrays.fill(par, -1);
 
                         while (!q.isEmpty()) {
-                                int from = q.poll();
-                                for (int to : adj[from]) {
+                                Integer from = q.poll();
+                                for (Integer to : adj[from]) {
                                         if (vis[to] == 0) {
                                                 vis[to] = 1;
                                                 par[to] = from;
@@ -50,7 +50,7 @@ public class Main {
                         int disMax = dis[node];
                         while (!q.isEmpty()) {
                                 int from = q.poll();
-                                for (int to : adj[from]) {
+                                for (Integer to : adj[from]) {
                                         if (vis[to] == 0) {
                                                 vis[to] = 1;
                                                 disMax = Math.max(disMax, dis[to]);
