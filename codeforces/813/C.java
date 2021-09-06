@@ -24,6 +24,8 @@ public class Main {
                         int[] vis = new int[n + 1];
                         int[] par = new int[n + 1];
                         int[] dis = new int[n + 1];
+                        Arrays.fill(vis, 0);
+                        Arrays.fill(dis, 0);
                         Arrays.fill(par, -1);
 
                         while (!q.isEmpty()) {
