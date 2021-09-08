@@ -1,4 +1,20 @@
 {
+  "CF128284443": {
+    "contest_id": 1569,
+    "language": "Java 11",
+    "path": "codeforces/1569/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Balanced Substring",
+    "problem_url": "https://codeforces.com/contest/1569/problem/A",
+    "submission_id": "CF128284443",
+    "submission_url": "https://codeforces.com/contest/1569/submission/128284443",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/08/2021 22:44"
+  },
   "CF129221236": {
     "contest_id": 1573,
     "language": "Java 11",
