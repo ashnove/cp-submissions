@@ -1,4 +1,20 @@
 {
+  "CF129221236": {
+    "contest_id": 1573,
+    "language": "Java 11",
+    "path": "codeforces/1573/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Countdown",
+    "problem_url": "https://codeforces.com/contest/1573/problem/A",
+    "submission_id": "CF129221236",
+    "submission_url": "https://codeforces.com/contest/1573/submission/129221236",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/19/2021 03:14"
+  },
   "CF129442212": {
     "contest_id": 514,
     "language": "Java 11",
