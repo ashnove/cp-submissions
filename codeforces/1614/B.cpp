@@ -6,7 +6,7 @@ using namespace std;
 
 #define pb push_back
 #define all(dp2) (dp2).begin(),(dp2).end()
-#define F first
+#define F first 
 #define S second
 #define Th third
 #define nl cout << endl;
@@ -87,7 +87,7 @@ void solve() {
             cout << res << endl;
             cout << 0 << " ";
             for(ll i : ans) cout << i << " ";
-            cout << endl;  
+            cout << endl;
       }
 
 }
