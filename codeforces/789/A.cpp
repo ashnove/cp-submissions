@@ -70,18 +70,41 @@ void solve() {
             int n; cin >> n;
             int k; cin >> k;
             vector<int> a(n);
-            for (int i = 0; i < n; i++) {
-                  cin >> a[i];
-                  a[i] = (a[i] + k - 1)/k;
-            }
-            int sum = accumulate(all(a), 0);
-            cout << (sum + 1)/2 << endl;
+            for (int i = 0; i < n; i++) cin >> a[i];
 
+            sort(all(a)); reverse(all(a));
+            ll ans = 0;
+            int days = 0;
+            if (a[0] > k) {
+                  int times = (a[0] + k - 1) / k;
+                  if (times % 2) {
+                        a[0] -= k * (times - 1);
+                        days += times / 2;
+                  }
+                  else a[0] = 0, days += times / 2;
+            }
+            for (int i = 1; i < n; i++) {
+                  if(a[i - 1]){
+                        a[i] -= k;
+                        a[i] = max(a[i], 0);
+                        days++;
+                  }
+                  if (a[i] > k) {
+                        int times = (a[i] + k - 1) / k;
+                        if (times % 2) {
+                              days += times / 2;
+                              a[i] -= (times - 1) * k;
+                        }
+                        else days += times / 2, a[i] = 0;
+                  }
+            }
+
+            cout << days + (a[n - 1] > 0) << endl;
 
       }
 }
 
-int main() { 
+int main() {
 
       ios_base::sync_with_stdio(false);
       cin.tie(NULL); cout.tie(NULL);
