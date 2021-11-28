@@ -1,4 +1,21 @@
 {
+  "CF137188835": {
+    "contest_id": 841,
+    "language": "GNU C++17",
+    "path": "codeforces/841/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Generous Kefa",
+    "problem_url": "https://codeforces.com/contest/841/problem/A",
+    "submission_id": "CF137188835",
+    "submission_url": "https://codeforces.com/contest/841/submission/137188835",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Nov/28/2021 13:58"
+  },
   "CF137189357": {
     "contest_id": 839,
     "language": "GNU C++17",
