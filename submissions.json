@@ -1,4 +1,22 @@
 {
+  "CF137188533": {
+    "contest_id": 798,
+    "language": "GNU C++17",
+    "path": "codeforces/798/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mike and palindrome",
+    "problem_url": "https://codeforces.com/contest/798/problem/A",
+    "submission_id": "CF137188533",
+    "submission_url": "https://codeforces.com/contest/798/submission/137188533",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Nov/28/2021 13:54"
+  },
   "CF137188835": {
     "contest_id": 841,
     "language": "GNU C++17",
