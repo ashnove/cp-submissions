@@ -1,4 +1,21 @@
 {
+  "CF139330258": {
+    "contest_id": 1618,
+    "language": "GNU C++17",
+    "path": "codeforces/1618/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Polycarp and Sums of Subsequences",
+    "problem_url": "https://codeforces.com/contest/1618/problem/A",
+    "submission_id": "CF139330258",
+    "submission_url": "https://codeforces.com/contest/1618/submission/139330258",
+    "tags": [
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/15/2021 02:05"
+  },
   "CF140524546": {
     "contest_id": 1619,
     "language": "GNU C++17",
