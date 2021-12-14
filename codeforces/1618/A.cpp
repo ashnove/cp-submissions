@@ -60,6 +60,12 @@ ll gcd(ll a, ll b) {
             return b;
       return gcd(b % a, a);
 }
+bool check(vector<ll> a, ll i, ll j, ll k){
+      sort(all(a));
+      vector<ll> b{a[i], a[j], a[k], a[i]+a[j], a[j]+a[k], a[k]+a[i], a[i] + a[j] + a[k]};
+      sort(all(b));
+      return a == b;
+}
 void solve() {
 
       int tt1 = 1;
@@ -70,7 +76,19 @@ void solve() {
                   cin >> a[i];
             }
             
-            cout << a[0] << " " << a[1] << " " << a[6] - a[0] - a[1] << endl;
+            for(ll i = 0; i < 7; i++){
+                  for(ll j = 0; j < 7; j++){
+                        for(ll k = 0; k < 7; k++){
+                              if(check(a, i, j, k)){
+                                    cout << a[i] << " " << a[j] << " " << a[k] << endl;
+                                    goto outer;
+                              }
+                        }
+                  }
+            }
+
+            outer:
+            ;
       }
 
 
