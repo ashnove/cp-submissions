@@ -2834,6 +2834,25 @@
     ],
     "timestamp": "Jan/01/2022 21:02"
   },
+  "CF155554829": {
+    "contest_id": 1627,
+    "language": "GNU C++17",
+    "path": "codeforces/1627/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Not Assigning",
+    "problem_url": "https://codeforces.com/contest/1627/problem/C",
+    "submission_id": "CF155554829",
+    "submission_url": "https://codeforces.com/contest/1627/submission/155554829",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "number theory",
+      "trees",
+      "*1400"
+    ],
+    "timestamp": "May/02/2022 11:12"
+  },
   "CF157580467": {
     "contest_id": 1675,
     "language": "GNU C++17",
