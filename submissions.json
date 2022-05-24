@@ -2834,6 +2834,23 @@
     ],
     "timestamp": "Jan/01/2022 21:02"
   },
+  "CF158316400": {
+    "contest_id": 1674,
+    "language": "GNU C++17",
+    "path": "codeforces/1674/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Number Transformation",
+    "problem_url": "https://codeforces.com/contest/1674/problem/A",
+    "submission_id": "CF158316400",
+    "submission_url": "https://codeforces.com/contest/1674/submission/158316400",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/24/2022 21:34"
+  },
   "CF158317349": {
     "contest_id": 1674,
     "language": "GNU C++17",
