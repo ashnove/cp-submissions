@@ -1,4 +1,20 @@
 {
+  "AC31980870": {
+    "contest_id": "abc252",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc252/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Distinct Trio",
+    "problem_url": "https://atcoder.jp/contests/abc252/tasks/abc252_d",
+    "submission_id": "AC31980870",
+    "submission_url": "https://atcoder.jp/contests/abc252/submissions/31980870",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/27/2022 19:07"
+  },
   "AC32145233": {
     "contest_id": "abc253",
     "language": "C++ (GCC 9.2.1)",
