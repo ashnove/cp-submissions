@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-260 | [D - FizzBuzz Sum Hard](https://atcoder.jp/contests/abc253/tasks/abc253_d) | [C++ (GCC 9.2.1)](./atcoder/abc253/D.cpp) | `AtCoder` `*400` | Jun/01/2022 23:00 | 
-259 | [C - Max - Min Query](https://atcoder.jp/contests/abc253/tasks/abc253_c) | [C++ (GCC 9.2.1)](./atcoder/abc253/C.cpp) | `AtCoder` `*300` | Jun/01/2022 17:26 | 
-258 | [B - Distance Between Tokens](https://atcoder.jp/contests/abc253/tasks/abc253_b) | [C++ (GCC 9.2.1)](./atcoder/abc253/B.cpp) | `AtCoder` `*200` | Jun/01/2022 17:17 | 
-257 | [A - Median?](https://atcoder.jp/contests/abc253/tasks/abc253_a) | [C++ (GCC 9.2.1)](./atcoder/abc253/A.cpp) | `AtCoder` `*100` | Jun/01/2022 17:00 | 
-256 | [C - Cardiogram](https://codeforces.com/contest/435/problem/C) | [GNU C++17](./codeforces/435/C.cpp) | `implementation` `*1600` | May/31/2022 14:26 | 
-255 | [B - Resort](https://codeforces.com/contest/350/problem/B) | [GNU C++17](./codeforces/350/B.cpp) | `graphs` `*1500` | May/31/2022 07:51 | 
-254 | [D - Distinct Trio](https://atcoder.jp/contests/abc252/tasks/abc252_d) | [C++ (GCC 9.2.1)](./atcoder/abc252/D.cpp) | `AtCoder` `*400` | May/27/2022 19:07 | 
-253 | [C - Slot Strategy](https://atcoder.jp/contests/abc252/tasks/abc252_c) | [C++ (GCC 9.2.1)](./atcoder/abc252/C.cpp) | `AtCoder` `*300` | May/27/2022 14:08 | 
-252 | [B - Takahashi's Failure](https://atcoder.jp/contests/abc252/tasks/abc252_b) | [C++ (GCC 9.2.1)](./atcoder/abc252/B.cpp) | `AtCoder` `*200` | May/27/2022 13:39 | 
+261 | [D - FizzBuzz Sum Hard](https://atcoder.jp/contests/abc253/tasks/abc253_d) | [C++ (GCC 9.2.1)](./atcoder/abc253/D.cpp) | `AtCoder` `*400` | Jun/01/2022 23:00 | 
+260 | [C - Max - Min Query](https://atcoder.jp/contests/abc253/tasks/abc253_c) | [C++ (GCC 9.2.1)](./atcoder/abc253/C.cpp) | `AtCoder` `*300` | Jun/01/2022 17:26 | 
+259 | [B - Distance Between Tokens](https://atcoder.jp/contests/abc253/tasks/abc253_b) | [C++ (GCC 9.2.1)](./atcoder/abc253/B.cpp) | `AtCoder` `*200` | Jun/01/2022 17:17 | 
+258 | [A - Median?](https://atcoder.jp/contests/abc253/tasks/abc253_a) | [C++ (GCC 9.2.1)](./atcoder/abc253/A.cpp) | `AtCoder` `*100` | Jun/01/2022 17:00 | 
+257 | [C - Cardiogram](https://codeforces.com/contest/435/problem/C) | [GNU C++17](./codeforces/435/C.cpp) | `implementation` `*1600` | May/31/2022 14:26 | 
+256 | [B - Resort](https://codeforces.com/contest/350/problem/B) | [GNU C++17](./codeforces/350/B.cpp) | `graphs` `*1500` | May/31/2022 07:51 | 
+255 | [D - Distinct Trio](https://atcoder.jp/contests/abc252/tasks/abc252_d) | [C++ (GCC 9.2.1)](./atcoder/abc252/D.cpp) | `AtCoder` `*400` | May/27/2022 19:07 | 
+254 | [C - Slot Strategy](https://atcoder.jp/contests/abc252/tasks/abc252_c) | [C++ (GCC 9.2.1)](./atcoder/abc252/C.cpp) | `AtCoder` `*300` | May/27/2022 14:08 | 
+253 | [B - Takahashi's Failure](https://atcoder.jp/contests/abc252/tasks/abc252_b) | [C++ (GCC 9.2.1)](./atcoder/abc252/B.cpp) | `AtCoder` `*200` | May/27/2022 13:39 | 
+252 | [A - ASCII code](https://atcoder.jp/contests/abc252/tasks/abc252_a) | [C++ (GCC 9.2.1)](./atcoder/abc252/A.cpp) | `AtCoder` `*100` | May/27/2022 13:33 | 
 251 | [B - GCD Arrays](https://codeforces.com/contest/1629/problem/B) | [GNU C++17](./codeforces/1629/B.cpp) | `greedy` `math` `number theory` `*800` | May/25/2022 12:08 | 
 250 | [A - Download More RAM](https://codeforces.com/contest/1629/problem/A) | [GNU C++17](./codeforces/1629/A.cpp) | `brute force` `greedy` `sortings` `*800` | May/25/2022 10:41 | 
 249 | [C - Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | [GNU C++17](./codeforces/1674/C.cpp) | `combinatorics` `implementation` `strings` `*1000` | May/24/2022 22:13 | 
