@@ -6,12 +6,14 @@ Submissions
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/parrot.svg)](https://codeforces.com/profile/parrot)
+* AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/ashnove.svg)](https://atcoder.jp/users/ashnove)
 
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+254 | [D - FizzBuzz Sum Hard](https://atcoder.jp/contests/abc253/tasks/abc253_d) | [C++ (GCC 9.2.1)](./atcoder/abc253/D.cpp) | `AtCoder` `*400` | Jun/01/2022 23:00 | 
 253 | [C - Cardiogram](https://codeforces.com/contest/435/problem/C) | [GNU C++17](./codeforces/435/C.cpp) | `implementation` `*1600` | May/31/2022 14:26 | 
 252 | [B - Resort](https://codeforces.com/contest/350/problem/B) | [GNU C++17](./codeforces/350/B.cpp) | `graphs` `*1500` | May/31/2022 07:51 | 
 251 | [B - GCD Arrays](https://codeforces.com/contest/1629/problem/B) | [GNU C++17](./codeforces/1629/B.cpp) | `greedy` `math` `number theory` `*800` | May/25/2022 12:08 | 
