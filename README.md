@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-255 | [D - FizzBuzz Sum Hard](https://atcoder.jp/contests/abc253/tasks/abc253_d) | [C++ (GCC 9.2.1)](./atcoder/abc253/D.cpp) | `AtCoder` `*400` | Jun/01/2022 23:00 | 
-254 | [C - Max - Min Query](https://atcoder.jp/contests/abc253/tasks/abc253_c) | [C++ (GCC 9.2.1)](./atcoder/abc253/C.cpp) | `AtCoder` `*300` | Jun/01/2022 17:26 | 
+256 | [D - FizzBuzz Sum Hard](https://atcoder.jp/contests/abc253/tasks/abc253_d) | [C++ (GCC 9.2.1)](./atcoder/abc253/D.cpp) | `AtCoder` `*400` | Jun/01/2022 23:00 | 
+255 | [C - Max - Min Query](https://atcoder.jp/contests/abc253/tasks/abc253_c) | [C++ (GCC 9.2.1)](./atcoder/abc253/C.cpp) | `AtCoder` `*300` | Jun/01/2022 17:26 | 
+254 | [B - Distance Between Tokens](https://atcoder.jp/contests/abc253/tasks/abc253_b) | [C++ (GCC 9.2.1)](./atcoder/abc253/B.cpp) | `AtCoder` `*200` | Jun/01/2022 17:17 | 
 253 | [C - Cardiogram](https://codeforces.com/contest/435/problem/C) | [GNU C++17](./codeforces/435/C.cpp) | `implementation` `*1600` | May/31/2022 14:26 | 
 252 | [B - Resort](https://codeforces.com/contest/350/problem/B) | [GNU C++17](./codeforces/350/B.cpp) | `graphs` `*1500` | May/31/2022 07:51 | 
 251 | [B - GCD Arrays](https://codeforces.com/contest/1629/problem/B) | [GNU C++17](./codeforces/1629/B.cpp) | `greedy` `math` `number theory` `*800` | May/25/2022 12:08 | 
