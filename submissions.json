@@ -9217,6 +9217,23 @@
     ],
     "timestamp": "May/31/2022 14:26"
   },
+  "CF160369093": {
+    "contest_id": 1697,
+    "language": "GNU C++17",
+    "path": "codeforces/1697/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Promo",
+    "problem_url": "https://codeforces.com/contest/1697/problem/B",
+    "submission_id": "CF160369093",
+    "submission_url": "https://codeforces.com/contest/1697/submission/160369093",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jun/12/2022 23:17"
+  },
   "CF160525252": {
     "contest_id": 1692,
     "language": "GNU C++17",

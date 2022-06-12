@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-532 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++17](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` | Jun/14/2022 21:00 | 
-531 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++17](./codeforces/1692/F.cpp) | `brute force` `math` | Jun/14/2022 20:44 | 
-530 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++17](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` | Jun/14/2022 20:36 | 
-529 | [D - The Clock](https://codeforces.com/contest/1692/problem/D) | [GNU C++17](./codeforces/1692/D.cpp) | `brute force` `implementation` | Jun/14/2022 20:29 | 
-528 | [C - Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | [GNU C++17](./codeforces/1692/C.cpp) | `implementation` | Jun/14/2022 20:16 | 
-527 | [B - All Distinct](https://codeforces.com/contest/1692/problem/B) | [GNU C++17](./codeforces/1692/B.cpp) | `greedy` `sortings` | Jun/14/2022 20:11 | 
-526 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [GNU C++17](./codeforces/1692/A.cpp) | `implementation` | Jun/14/2022 20:07 | 
+533 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++17](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` | Jun/14/2022 21:00 | 
+532 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++17](./codeforces/1692/F.cpp) | `brute force` `math` | Jun/14/2022 20:44 | 
+531 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++17](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` | Jun/14/2022 20:36 | 
+530 | [D - The Clock](https://codeforces.com/contest/1692/problem/D) | [GNU C++17](./codeforces/1692/D.cpp) | `brute force` `implementation` | Jun/14/2022 20:29 | 
+529 | [C - Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | [GNU C++17](./codeforces/1692/C.cpp) | `implementation` | Jun/14/2022 20:16 | 
+528 | [B - All Distinct](https://codeforces.com/contest/1692/problem/B) | [GNU C++17](./codeforces/1692/B.cpp) | `greedy` `sortings` | Jun/14/2022 20:11 | 
+527 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [GNU C++17](./codeforces/1692/A.cpp) | `implementation` | Jun/14/2022 20:07 | 
+526 | [B - Promo](https://codeforces.com/contest/1697/problem/B) | [GNU C++17](./codeforces/1697/B.cpp) | `greedy` `sortings` `*900` | Jun/12/2022 23:17 | 
 525 | [D - FizzBuzz Sum Hard](https://atcoder.jp/contests/abc253/tasks/abc253_d) | [C++ (GCC 9.2.1)](./atcoder/abc253/D.cpp) | `AtCoder` `*400` | Jun/01/2022 23:00 | 
 524 | [C - Max - Min Query](https://atcoder.jp/contests/abc253/tasks/abc253_c) | [C++ (GCC 9.2.1)](./atcoder/abc253/C.cpp) | `AtCoder` `*300` | Jun/01/2022 17:26 | 
 523 | [B - Distance Between Tokens](https://atcoder.jp/contests/abc253/tasks/abc253_b) | [C++ (GCC 9.2.1)](./atcoder/abc253/B.cpp) | `AtCoder` `*200` | Jun/01/2022 17:17 | 
